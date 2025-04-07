@@ -10,6 +10,7 @@ MAX_FILENAME_LENGTH = 215  # Maximum length for playlist filenames
 class MusicPlaylistGenerator:
         def __init__(self):
             print("Hello")
+            print("go")
             self.music_source_dir = ""
             self.playlist_dest_dir = ""
 
