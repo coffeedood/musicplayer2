@@ -11,6 +11,7 @@ class MusicPlaylistGenerator:
         def __init__(self):
             print("Hello")
             print("go")
+            print("goop")
             self.music_source_dir = ""
             self.playlist_dest_dir = ""
 
